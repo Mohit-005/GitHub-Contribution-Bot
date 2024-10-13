@@ -4,7 +4,6 @@ Manipulate your GitHub contribution Graph
 
 # GitHub Contribution Bot
 
-[![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
 [![](https://img.shields.io/github/license/utsanjan/Github-Contribution-Bot?logoColor=red&style=plastic)](https://github.com/utsanjan/Github-Contribution-Bot/blob/main/LICENSE)‎ ‎
 [![](https://img.shields.io/github/languages/count/utsanjan/Github-Contribution-Bot?style=plastic)](https://github.com/utsanjan/Github-Contribution-Bot/search?l=shell)‎ ‎
 [![](https://img.shields.io/github/languages/top/utsanjan/Github-Contribution-Bot?color=light%20green&style=plastic)](https://github.com/utsanjan/Github-Contribution-Bot)‎ ‎ `<br>`
